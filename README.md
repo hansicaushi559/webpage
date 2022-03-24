@@ -1,7 +1,10 @@
 # webpage
 
 ## About this project
-This web page was my first project. It is created with html, css and js. It consist of a here section witch is created with css flexbox, then a grid section , and an iframe and a contact box in the third section.. it fully responsible
+This web page was my first project. It is created with HTML, SASS
+and JS. It consist of a "hero" section which is styled with CSS
+Flexbox. The sections below are styled in CSS Grid. The contact
+form contains an google maps iframe. It’s fully responsive
 
 ### Deployed project link 
 https://trusting-beaver-f2e968.netlify.app
